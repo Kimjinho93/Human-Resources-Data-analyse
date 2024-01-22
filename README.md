@@ -13,8 +13,20 @@ The analysis project was conducted by referring to data from the following
 
 ### Project Data
 * Used Data : Human-Resources-Data-set
-  * ![image](https://github.com/Kimjinho93/Human-Resources-Data-analyse/assets/74041451/c3c0327c-f198-42b3-8106-8e8a568ba414)
-
+* RangeIndex: 311 entries, 0 to 310
+* Data columns (total 36 columns)
+  * Employee_Name	311	object
+  * EmpID	311	int64
+  * MarriedID	311	int64
+  * MaritalStatusID	311	int64
+  * GenderID	311	int64
+  * EmpStatusID	311	int64
+  * DeptID	311	int64
+  * PerfScoreID	311	int64
+  * FromDiversityJobFairID	311	int64
+  * …
+  * DaysLateLast30	311	int64
+  * Absences	311	int64
 
 ### Project Topic
 * Analysis of promotion rate
